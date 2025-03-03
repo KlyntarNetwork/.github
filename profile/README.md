@@ -1,7 +1,6 @@
 <div align="center">
 
-![Github README Cover (3)](https://github.com/user-attachments/assets/3336929d-38f3-4068-b23d-fe4d6f7572bd)
-
+![Github README Cover (1)](https://github.com/user-attachments/assets/ef755041-ba78-4e35-803e-b50734cedccc)
 
 </div>
 
