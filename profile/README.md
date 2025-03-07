@@ -50,7 +50,7 @@ KLYNTAR (or KLY for short) is:
 <a href="https://www.reddit.com/r/KLYN74R/">  
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
-<a href="https://twitter.com/KLYN74R">
+<a href="https://twitter.com/KlyntarNetwork">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://klyntar.medium.com/">
@@ -59,7 +59,7 @@ KLYNTAR (or KLY for short) is:
 <a href="https://www.tiktok.com/@klyn74r">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/klyn74r/">
+<a href="https://www.instagram.com/klyntarnetwork/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
   
@@ -70,10 +70,10 @@ KLYNTAR (or KLY for short) is:
 <a href="https://dev.to/klyntar">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
-<a href="https://github.com/KLYN74R">
+<a href="https://github.com/KlyntarNetwork">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://t.me/KLYN74R">
+<a href="https://t.me/KlyntarNetwork">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="https://discord.gg/f7e7fCp97r">
