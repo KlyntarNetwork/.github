@@ -56,7 +56,7 @@ KLYNTAR (or KLY for short) is:
 <a href="https://klyntar.medium.com/">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-<a href="https://www.tiktok.com/@klyn74r">
+<a href="https://www.tiktok.com/@klyntarnetwork">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/klyntarnetwork/">
